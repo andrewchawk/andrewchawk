@@ -8,4 +8,4 @@ Also, i *am* at least *somewhat* active with this account.  The contribution gra
 
 Anyone who has questions about my work is free to create an issue or send a message via XMPP to ach@jabb3r.org.  Also, as indicated by some of my more recent commits, i can also be reached via e-mail at andrewchawk@protonmail.com.
 
-i also go by "nakni" but saw no great spot for this mention.
+i also go by "zungi" and "nakni" but saw no great spot for this mention.
